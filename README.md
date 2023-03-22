@@ -1,27 +1,8 @@
+I am a graduate student at Columbia University in the [Political Science](https://polisci.columbia.edu/content/manu-singh) department. Before this, I was a Research Specialist II at the [Empirical Studies of Conflict](https://esoc.princeton.edu/) group at Princeton University. I got my Master of Arts degree from Columbia University in Quantitative Methods in the Social Sciences with a Data Science Concentration.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+As a quantitative researcher, I see unprecedented opportunities to advance classic social sciences. I aspire to be part of an emerging class of social scientists that are grounded in theory and can leverage advancements in big data, remote sensing, social media channels, and statistical tools to understand our society in a whole new light.
 
-[Link to another page](./another-page.html).
+My research interests include social media, political communication, electoral politics, geospatial data analysis, bayesian statistics, causal inference, and machine learning.
 
-There should be whitespace between paragraphs.
+The latest copy of my resume is [here](https://github.com/manusingh3/manusingh3.github.io/blob/b09f0dada768aa1f0c7d51f37fc8b814bb51bc72/resume_MS_2022.pdf)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
